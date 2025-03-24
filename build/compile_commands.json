@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Cmake/cmake_planning_test/build",
+  "command": "C:\\Users\\20657\\AppData\\Local\\Programs\\MICROS~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c D:\\Cmake\\cmake_planning_test\\planning_main.cpp",
+  "file": "D:/Cmake/cmake_planning_test/planning_main.cpp",
+  "output": "CMakeFiles/planning_main.dir/planning_main.cpp.obj"
+},
+{
+  "directory": "D:/Cmake/cmake_planning_test/build",
+  "command": "C:\\Users\\20657\\AppData\\Local\\Programs\\MICROS~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\planning_main.dir\\pnc_map.cpp.obj -c D:\\Cmake\\cmake_planning_test\\pnc_map.cpp",
+  "file": "D:/Cmake/cmake_planning_test/pnc_map.cpp",
+  "output": "CMakeFiles/planning_main.dir/pnc_map.cpp.obj"
+},
+{
+  "directory": "D:/Cmake/cmake_planning_test/build",
+  "command": "C:\\Users\\20657\\AppData\\Local\\Programs\\MICROS~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\planning_main.dir\\process.cpp.obj -c D:\\Cmake\\cmake_planning_test\\process.cpp",
+  "file": "D:/Cmake/cmake_planning_test/process.cpp",
+  "output": "CMakeFiles/planning_main.dir/process.cpp.obj"
+}
+]
